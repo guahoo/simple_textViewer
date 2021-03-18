@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextViewer</string>
+    <string name="text_preview">Откройте что-нибудь</string>
+</resources>
